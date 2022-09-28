@@ -163,7 +163,7 @@ python main.py -d ICEWS05-15 --train-history-len 9 --test-history-len 9 --lr 0.0
 
 ## Reproduce the results in our paper
 
-We provide the general training models for all datasets. The trained models can be downloaded at https://github.com/Liudaxian1/TrainedModels/tree/main/RETIAGeneral_Models. Then, put the folders of the trained models in the "./models" folder. Note that Github only allows large files to be downloaded one by one (bigger than 25MB). Therefore, go into the last level of each folder in the web to download, to ensure the integrity of the model files.
+We provide the general training models for all datasets. The trained models can be downloaded at https://github.com/Liudaxian1/TrainedModels/tree/main/RETIAGeneral_Models. Then, put the trained models into the corresponding folders in the "./models" folder. Note that Github only allows large files to be downloaded one by one (bigger than 25MB). Therefore, go into the last level of each folder in the web to download, to ensure the integrity of the model files.
 
 ## Contacts
 
