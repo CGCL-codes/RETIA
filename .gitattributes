@@ -1,0 +1,2 @@
+2-GPU0 filter=lfs diff=lfs merge=lfs -text
+*.2-GPU0 filter=lfs diff=lfs merge=lfs -text
