@@ -26,30 +26,35 @@ First, train the model based on the information of an invariant historical range
 
 
 ```shell
+cd src
 python main.py -d YAGO --train-history-len 3 --test-history-len 3 --lr 0.001 --n-layers 2 --evaluate-every 1 --n-hidden 200 --self-loop --decoder convtranse --encoder uvrgcn --layer-norm --gpu 0 --ft_lr=0.001 --norm_weight 1 --task-weight 0.7
 ```
 
 ### WIKI
 
 ```shell
+cd src
 python main.py -d WIKI --train-history-len 3 --test-history-len 3 --lr 0.001 --n-layers 2 --evaluate-every 1 --n-hidden 200 --self-loop --decoder convtranse --encoder uvrgcn --layer-norm --gpu 0 --ft_lr=0.001 --norm_weight 1 --task-weight 0.7
 ```
 
 ### ICEWS14
 
 ```shell
+cd src
 python main.py -d ICEWS14 --train-history-len 9 --test-history-len 9 --lr 0.001 --n-layers 2 --evaluate-every 1 --n-hidden 200 --self-loop --decoder convtranse --encoder uvrgcn --layer-norm --gpu 0 --ft_lr=0.001 --norm_weight 1 --task-weight 0.7 --weight 0.5 --angle 14 --discount 1 --add-static-graph
 ```
 
 ### ICEWS18
 
 ```shell
+cd src
 python main.py -d ICEWS18 --train-history-len 4 --test-history-len 4 --lr 0.001 --n-layers 2 --evaluate-every 1 --n-hidden 200 --self-loop --decoder convtranse --encoder uvrgcn --layer-norm --gpu 0 --ft_lr=0.001 --norm_weight 1 --task-weight 0.7 --weight 0.5 --angle 10 --discount 1 --add-static-graph
 ```
 
 ### ICEWS05-15
 
 ```shell
+cd src
 python main.py -d ICEWS05-15 --train-history-len 9 --test-history-len 9 --lr 0.001 --n-layers 2 --evaluate-every 1 --n-hidden 200 --self-loop --decoder convtranse --encoder uvrgcn --layer-norm --gpu 0 --ft_lr=0.001 --norm_weight 1 --task-weight 0.7 --weight 0.5 --angle 10 --discount 1 --add-static-graph
 ```
 
