@@ -1,4 +1,4 @@
-# RETIA: Relation-Entity Twin-Interact Aggregating for Temporal Knowledge Graph Extrapolating
+# RETIA: Relation-Entity Twin-Interact Aggregation for Temporal Knowledge Graph Extrapolation
 
 This is the released codes of the following paper:
 
