@@ -2,7 +2,7 @@
 
 This is the released codes of the following paper:
 
-Kangzheng Liu, Feng Zhao, Guandong Xu, and Hai Jin. RETIA: Relation-Entity Twin-Interact Aggregating for Temporal Knowledge Graph Extrapolating.
+Kangzheng Liu, Feng Zhao, Guandong Xu, Xianzhi Wang, and Hai Jin. RETIA: Relation-Entity Twin-Interact Aggregating for Temporal Knowledge Graph Extrapolating.
 
 ![RETIA](https://github.com/Liudaxian1/FIG/blob/main/RETIA.png)
 
