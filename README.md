@@ -20,7 +20,7 @@ pandas==1.1.5
 
 ## General Training
 
-First, train the model based on the information of an invariant historical range (e.i., the size of the training set). The training parameters for different datasets are presented as follows:
+First, train the model based on the information of an invariant historical range (i.e., the size of the training set). The training parameters for different datasets are presented as follows:
 
 ### YAGO
 
