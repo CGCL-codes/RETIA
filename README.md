@@ -6,6 +6,32 @@ Kangzheng Liu, Feng Zhao, Guandong Xu, Xianzhi Wang, and Hai Jin. RETIA: Relatio
 
 ![RETIA](https://github.com/Liudaxian1/FIG/blob/main/RETIA.png)
 
+## Citation
+
+If this is helpful for you, please cite our paper here:
+
+```shell
+@inproceedings{DBLP:conf/icde/Liu0X0023,
+  author       = {Kangzheng Liu and
+                  Feng Zhao and
+                  Guandong Xu and
+                  Xianzhi Wang and
+                  Hai Jin},
+  title        = {{RETIA:} Relation-Entity Twin-Interact Aggregation for Temporal Knowledge
+                  Graph Extrapolation},
+  booktitle    = {39th {IEEE} International Conference on Data Engineering, {ICDE} 2023,
+                  Anaheim, CA, USA, April 3-7, 2023},
+  pages        = {1761--1774},
+  publisher    = {{IEEE}},
+  year         = {2023},
+  url          = {https://doi.org/10.1109/ICDE55515.2023.00138},
+  doi          = {10.1109/ICDE55515.2023.00138},
+  timestamp    = {Thu, 27 Jul 2023 17:17:25 +0200},
+  biburl       = {https://dblp.org/rec/conf/icde/Liu0X0023.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+```
+
 ## Environment dependencies
 
 ```shell
