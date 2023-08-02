@@ -8,7 +8,7 @@ Kangzheng Liu, Feng Zhao, Guandong Xu, Xianzhi Wang, and Hai Jin. RETIA: Relatio
 
 ## Citation
 
-If this is helpful for you, please cite our paper here:
+If this repository is helpful for your current work, please cite our paper here:
 
 ```shell
 @inproceedings{DBLP:conf/icde/Liu0X0023,
