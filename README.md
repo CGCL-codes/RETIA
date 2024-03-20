@@ -8,7 +8,7 @@ Kangzheng Liu, Feng Zhao, Guandong Xu, Xianzhi Wang, and Hai Jin. RETIA: Relatio
 
 ## Citation
 
-If this repository is helpful for your current work, please cite our paper here:
+Please find the citation information of our paper here:
 
 ```shell
 @inproceedings{DBLP:conf/icde/Liu0X0023,
@@ -199,3 +199,7 @@ We provide the general training models for all datasets. The trained models can 
 ## Contacts
 
 Contact us with the following email address: FrankLuis@hust.edu.cn.
+
+## Acknowledgements
+
+The source codes take [RE-GCN](https://github.com/Lee-zix/RE-GCN) as the backbone to implement our proposed method. Please cite both our work and [RE-GCN](https://github.com/Lee-zix/RE-GCN) if you would like to use our source codes.
